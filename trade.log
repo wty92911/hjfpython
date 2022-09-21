@@ -1,0 +1,6 @@
+Alice : Buy at 10.01
+Bob : Sell at 9.99
+Carol : Sell at 10.02
+Alice : Buy at 10.03
+Bob : Buy at 10.01
+Carol : Sell at 10.02
